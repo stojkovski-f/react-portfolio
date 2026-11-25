@@ -1,5 +1,7 @@
 function Footer() {
-  return <div className="copyright">Copyright - Filip Stojkovski &copy; 2026</div>
+  const year = new Date().getFullYear()
+
+  return <div className="copyright">Copyright - Filip Stojkovski &copy; {year}</div>
 }
 
 export default Footer

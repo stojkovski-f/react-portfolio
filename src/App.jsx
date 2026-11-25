@@ -4,14 +4,12 @@ import Nav from './components/Nav'
 import LogoSpace from './components/LogoSpace'
 import DecorativeSquares from './components/DecorativeSquares'
 import HomeTab from './components/HomeTab'
-import CompetenceTab from './components/CompetenceTab'
 import AboutTab from './components/AboutTab'
 import ContactTab from './components/ContactTab'
 import Footer from './components/Footer'
 
 const TABS = {
   home: HomeTab,
-  competence: CompetenceTab,
   about: AboutTab,
   contact: ContactTab,
 }

@@ -27,7 +27,7 @@ function HomeTab({ onNavigate }) {
 
       <div>
         <div className="empty-space" />
-        <h1 id="why-work-with-me">Me in bulletpoints</h1>
+        <h1 id="why-work-with-me">Me in bullet-points</h1>
         <ul className="pros-list">
           {pros.map((item) => (
             <li key={item} className="pros-li">
@@ -42,9 +42,9 @@ function HomeTab({ onNavigate }) {
           </span>
         ))}
         <br />
-        <br /> From backend develompent I have gradually transitioned into technical leadership. This
+        <br /> From backend development I have gradually transitioned into technical leadership. This
         gives me a unique possibility to use both my engineering background and people skills to build
-        trust and communication between different parts of the organization and turn bussiness goals to
+        trust and communication between different parts of the organization and turn business goals to
         robust technical deliveries.
         <br />
       </div>
@@ -80,11 +80,6 @@ function HomeTab({ onNavigate }) {
 
       <div className="cblock">
         <div className="white-text slim-text">Certifications</div>
-        <div className="small-explanation-right">
-          <span className="contentbtn" onClick={() => onNavigate('competence')} role="button" tabIndex={0}>
-            see competence tab for more details.
-          </span>
-        </div>
 
         <div className="all-certs">
           {certifications.map((cert) =>
@@ -117,7 +112,7 @@ function HomeTab({ onNavigate }) {
       <div className="empty-space" />
 
       <div>
-        <div className="white-text slim-text">What are people saying?</div>
+        <div className="white-text slim-text">What people are saying?</div>
         {testimonials.map((testimonial) => (
           <TestimonialCard key={testimonial.name} {...testimonial} />
         ))}

@@ -6,7 +6,7 @@ function ContactTab() {
       Hey, there!
       <br />
       <br />
-      I check Linkedin somewhat reguraly so that&apos;s probably <br />
+      I check Linkedin somewhat regularly so that&apos;s probably <br />
       the best place to reach me. <br />
       <br />
       Lets get the conversation going! <br />

@@ -1,6 +1,6 @@
 export const pros = [
-  'Started my profesional career in 2015',
-  'Technical and E-commerce expertese',
+  'Started my professional career in 2015',
+  'Technical and E-commerce expertise',
   "Bachelor's Degree in Information Technology",
   'Great Communication and leadership skills',
   'Experience from working with top digital agencies and big brands in Sweden',
@@ -10,7 +10,7 @@ export const hashtags = [
   '#team-work',
   '#scalability',
   '#problem-solving',
-  '#exelence',
+  '#excellence',
   '#knowledge-sharing',
   '#leadership',
   '#creativity',
@@ -28,13 +28,13 @@ export const otherSkills =
   'Typescript - LESS - MySQL - Jenkins - Docker - Kubernetes - Bootstrap - Vue.js - Pixi.js - Composer - NPM - HTML - XML - CMD - Linux - Jira - IntelliJ - VS Code - Message Queues - Graphana - New Relic - Akeneo - AWS - Azure'
 
 export const leadershipExperience = [
-  "I've been part of the Product Onwers team and influenced product decisions",
+  "I've been part of the Product Owners team and influenced product decisions",
   'Driving technical and process improvements on ongoing basis',
   'Working with the engineering team to find best solutions and processes',
   'Owning and driving technical projects from requirements specification to delivery',
-  'Aligning teams Cross-functionaly',
+  'Aligning teams Cross-functionally',
   'Connecting with external partners and aligning integration decisions',
-  'Crafting architecture designs that aligns both with bussiness and tech',
+  'Crafting architecture designs that aligns both with business and tech',
 ]
 
 export const certifications = [
